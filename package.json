@@ -18,7 +18,7 @@
     "http-server": "^0.10.0",
     "mocha": "2.3.3",
     "node-fetch": "1.7.3",
-    "puppeteer": "0.10.1",
+    "puppeteer": "1.13.0",
     "serve-static": "^1.10.0"
   }
 }
